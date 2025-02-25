@@ -1,6 +1,6 @@
-# Recursive Feature Machines
+# Linear Recursive Random Feature Machines
 
-There are two notebooks to test out RFM: 
+There are two notebooks to test out LRRFM: 
 - low_rank.ipynb (an example of low rank polynomials)
 - svhn.ipynb (for the SVHN dataset)
 
